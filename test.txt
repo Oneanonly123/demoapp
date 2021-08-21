@@ -1,1 +1,2 @@
-This is the test added from local repo.
+
+We are using diff command.
