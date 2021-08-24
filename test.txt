@@ -1,2 +1,3 @@
 Added from base branch.
 Added staged area.
+Working on rebase command.
