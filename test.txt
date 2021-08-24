@@ -1,1 +1,2 @@
 Added from base branch.
+Added staged area.
