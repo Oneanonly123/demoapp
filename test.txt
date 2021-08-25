@@ -2,3 +2,4 @@ Added from base branch.
 Added staged area.
 Working on rebase command.
 We  are again checking the stash command. 
+This is another line for rebase in feature.
