@@ -2,4 +2,3 @@ Added from base branch.
 Added staged area.
 Working on rebase command.
 We  are again checking the stash command. 
-We are using this line to revert.
